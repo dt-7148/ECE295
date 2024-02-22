@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Input.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Input.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Input.SchDoc|FileName=Output.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Input.SchDoc|FileName=Switch.SchDoc|SheetNumber=3
