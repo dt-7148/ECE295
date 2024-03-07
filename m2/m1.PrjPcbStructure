@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_Input|SchDesignator=U_Input|FileName=Input.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Input.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_Output|SchDesignator=U_Output|FileName=Output.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Output.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
