@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QBNXWRQS
 
 [Document4]
-DocumentPath=MCU_PCB.PcbDoc
+DocumentPath=MCU.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GJTETFMH
+DocumentUniqueId=RISUKOFQ
 
 [Configuration1]
 Name=Sources

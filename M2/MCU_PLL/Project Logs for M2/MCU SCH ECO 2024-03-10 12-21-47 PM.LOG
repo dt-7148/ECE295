@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=CV1 Old Footprint=RADIAL-0.1 New Footprint=1206
+Change Component Footprint: Designator=CV2 Old Footprint=RADIAL-0.1 New Footprint=1206
+Add Pin To Net: Pin=CV2-2 Old Net=NetCV2_2 New Net=+3.3V
