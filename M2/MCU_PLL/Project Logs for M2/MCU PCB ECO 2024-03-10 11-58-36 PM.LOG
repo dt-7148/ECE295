@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=DP1 NewDesignator=D5V
+Change Component Designator: OldDesignator=DP2 NewDesignator=D3.3V
+Change Component Designator: OldDesignator=DP? NewDesignator=D_DTR
+Change Component Designator: OldDesignator=R? NewDesignator=R_DTR
+Change Component Designator: OldDesignator=R_LED1 NewDesignator=R5V
+Change Component Designator: OldDesignator=R_LED2 NewDesignator=R3.3V
+Change Component Designator: OldDesignator=R_LED? NewDesignator=R_LED
+Change Net Name : Old Net Name=NetDP1_2 New Net Name=NetD5V_2
+Change Net Name : Old Net Name=NetDP2_2 New Net Name=NetD3.3V_2
+Change Net Name : Old Net Name=NetDP?_2 New Net Name=NetD_DTR_2
+Added Member To Class: ClassName=U_Output Member=Component LCD1 EA_DOGS164W-A
