@@ -108,6 +108,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RISUKOFQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for M2\Design Rule Check - MCU.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
