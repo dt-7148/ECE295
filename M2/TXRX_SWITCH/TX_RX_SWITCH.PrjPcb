@@ -74,29 +74,16 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOBOGAMJ
 
-[Document3]
-DocumentPath=switch_routed - no planes.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CFHAQLCA
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for TX_RX_SWITCH\Design Rule Check - switch_routed - no planes.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for TX_RX_SWITCH\Design Rule Check - switch_routed.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=switch_routed - no planes 2024-03-15 1-39-38 PM.WAS
 DItemRevisionGUID=
 
 [Configuration1]

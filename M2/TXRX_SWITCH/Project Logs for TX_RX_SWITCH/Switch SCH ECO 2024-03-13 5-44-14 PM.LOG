@@ -1,0 +1,6 @@
+Update Managed Component B0 From CMP-2000-05237-1[2N2222] To CMP-2000-05237-1[2N2222] in Switch.SchDoc
+Update Managed Component D1 From CMP-02540-000029-2[1N4148TR] To CMP-02540-000029-2[1N4148TR] in Switch.SchDoc
+Update Managed Component J11 From CMP-1502-01064-2[ANT] To CMP-1502-01064-2[61300411121] in Switch.SchDoc
+Update Managed Component J12 From CMP-1502-01064-2[RX] To CMP-1502-01064-2[61300411121] in Switch.SchDoc
+Update Managed Component J13 From CMP-1502-01064-2[TX] To CMP-1502-01064-2[61300411121] in Switch.SchDoc
+Replace Part RBJT RES 470 OHM 5% 1/4W AXIAL in C:\Me\uniStuff\year2\winter\ece295\ece295_github\ECE295\M2\TXRX_SWITCH\Switch.SchDoc with RES 470 OHM 5% 1/4W AXIAL from ECE295-Resistors-TH.IntLib

@@ -1,0 +1,2 @@
+Remove Pin=RBJT-1 From Net=/TXEN
+Change Component Designator: OldDesignator=DSW NewDesignator=D1
