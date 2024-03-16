@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Me\uniStuff\year2\winter\ece295\ece295_github\ECE295\M2\TXRX_SWITCH\switch_routed.PcbDoc
-Date     : 2024-03-15
-Time     : 1:55:12 PM
+Date     : 2024-03-16
+Time     : 5:04:44 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -38,8 +38,7 @@ Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
 Rule Violations :4
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (4.577mil < 10mil) Between Text "RBJT" (320mil,1257mil) on Top Overlay And Track (533.929mil,1342.091mil)(567.615mil,1308.406mil) on Top Overlay Silk Text to Silk Clearance [4.577mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -48,6 +47,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 5
+Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

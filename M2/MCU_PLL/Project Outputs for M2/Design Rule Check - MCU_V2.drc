@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Me\uniStuff\year2\winter\ece295\ece295_github\ECE295\M2\MCU_PLL\MCU_V2.PcbDoc
-Date     : 2024-03-12
-Time     : 7:42:32 PM
+Date     : 2024-03-16
+Time     : 2:08:16 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -27,7 +27,7 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
