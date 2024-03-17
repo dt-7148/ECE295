@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: switch_routed.PcbDoc   2024-03-17  11:50:55 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : switch_routed.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             2         PTH        0.26inch (6.50mm)
+T2      32mil (0.8mm)                                             Round             3         PTH        0.15inch (3.91mm)
+T3      33mil (0.85mm)                                            Round             4         PTH        1.19inch (30.24mm)
+T4      41mil (1.05mm)                                            Round             2         PTH        0.10inch (2.54mm)
+T5      43mil (1.1mm)                                             Round             12        PTH        3.23inch (82.03mm)
+T6      51mil (1.295mm)                                           Round             5         PTH        1.45inch (36.85mm)
+T7      63mil (1.6mm)                                             Round             3         PTH        0.32inch (8.13mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              31
+
+Total Processing Time (hh:mm:ss) : 00:00:00

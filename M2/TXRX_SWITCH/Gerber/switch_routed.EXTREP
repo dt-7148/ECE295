@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: switch_routed.GBR   2024-03-17  11:50:53 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GM1                Board Shape                             
+.GM2                Top 3D Body                             
+.GM3                Top Courtyard                           
+.GM5                Top Assembly                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GM16               Top Component Center                    
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

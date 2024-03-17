@@ -108,12 +108,105 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDDXXQRD
 
+[Document5]
+DocumentPath=ECE295.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for M2\Design Rule Check - MCU.html
+DocumentPath=Project Outputs for M2\Design Rule Check - MCU_V2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for M2\Design Rule Check - MCU_V2.html
+DocumentPath=.\NC Drill\MCU_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\Gerber\MCU_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\Gerber\MCU_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\Gerber\MCU_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\Gerber\MCU_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\Gerber\MCU_V2.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\Gerber\MCU_V2.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\Gerber\MCU_V2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\Gerber\MCU_V2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\Gerber\MCU_V2.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\Gerber\MCU_V2.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\Gerber\MCU_V2.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\Gerber\MCU_V2.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\Gerber\MCU_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\Gerber\MCU_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\Gerber\MCU_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\NC Drill\MCU_V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\Gerber\MCU_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\Gerber\MCU_V2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\NC Drill\MCU_V2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
