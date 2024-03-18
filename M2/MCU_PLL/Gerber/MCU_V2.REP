@@ -2,75 +2,28 @@
 FileName = MCU_V2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : MCU_V2.GTL
+Generating : Mechanical 15
+      File : MCU_V2.GM15
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Mechanical 15
 
-    Adding Layer      : Multi-Layer
+
+Used DCodes :
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : MCU_V2.GM13
+
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
     D10
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : MCU_V2.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : MCU_V2.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : MCU_V2.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
     D14
+    D38
 *************************************************************
 
 *************************************************************
@@ -85,50 +38,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : MCU_V2.GBL
+Generating : Keep-Out Layer
+      File : MCU_V2.GKO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D10
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : MCU_V2.GPT
+Generating : Bottom Overlay
+      File : MCU_V2.GBO
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
 *************************************************************
 
 *************************************************************
@@ -157,19 +83,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : MCU_V2.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
-    D14
-    D38
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : MCU_V2.GTS
 
@@ -195,25 +108,112 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : MCU_V2.GBO
+Generating : Top Overlay
+      File : MCU_V2.GTO
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : MCU_V2.GM15
-
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D38
-    D39
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : MCU_V2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MCU_V2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MCU_V2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MCU_V2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
 *************************************************************
 
 *************************************************************
