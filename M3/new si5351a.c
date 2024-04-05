@@ -188,7 +188,9 @@ void setup_PLL(plldev_t pll, byte mult, uint32_t num, uint32_t denom)
 
 void setup_clock(plldev_t pll, byte port, uint32_t div, uint32_t num, uint32_t denom)
 {
-    if( port > 2 ) return;
+    uint32_t a;
+	a = denom;
+	if( port > 2 ) return;
     if( div < 4 || div > 2048 ) return;
     if( (denom == 0) || (denom > 0xFFFFF) ) return;
     if( num > 0xFFFFF) return;
@@ -329,12 +331,12 @@ void set_LO_freq(uint32_t freq)
     uint32_t fvco = 700000000, div, num, denom, gcf, rdiv;
 
 	// TODO: Calculate required divider, num and denom for clock
-    div = (int)fvco / (int)freq;        // Integer division results in an integer without remainders
+    div = (float)fvco / freq;        // Integer division results in an integer without remainders
     uint32_t mod = fvco % freq;
     gcf = _gcd(mod, freq);
 
     num = (mod) / gcf;
-    denom = freq / gcf;  // ************************************************************
+    denom = (float) freq / gcf;  // ************************************************************
 
     /* Setup two clock frequencies and 90 degree phase shift */
     setup_clock(SI5351_PLL_A, SI5351_PORT0, div, num, denom);
@@ -343,4 +345,3 @@ void set_LO_freq(uint32_t freq)
 	// TODO: figure out what phase offset to send
 	set_phase(90);
 }
-
